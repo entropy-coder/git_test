@@ -1,1 +1,1 @@
-This is Bryna's first git project!
+This is Bryan's first git project!
